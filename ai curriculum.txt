@@ -48,3 +48,5 @@ Machine Learning with Python (edX - IBM): Offers a practical approach to machine
 Kaggle Learn: Offers interactive courses and competitions to apply your knowledge. 
 fast.ai's Practical Deep Learning for Coders: Focuses on building deep learning models using a practical, hands-on approach. 
 Project-Based Learning: Building projects, even simple ones, is crucial for solidifying your understanding and building your portfolio. 
+Huggingface: exercises 
+Reddit link to courses: https://www.reddit.com/r/learnmachinelearning/comments/1m31pmw/free_ai_courses/
